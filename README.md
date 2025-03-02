@@ -39,8 +39,7 @@
 ---
 
 ## 💻 **Workspace Setup**  
-<img height="50" width="50" src="https://img.shields.io/badge/OS-Ubuntu-ES8E0E?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img height="50" width="50" src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img height="50" width="100" src="https://img.shields.io/badge/OS-Ubuntu-ES8E0E?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img height="50" width="100" src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 ---
 
