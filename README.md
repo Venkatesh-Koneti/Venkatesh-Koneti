@@ -23,40 +23,39 @@
 ## 🚀 **Tech Stack**  
 
 ### 🎨 **Frontend Development**  
-![HTML](https://img.icons8.com/color/48/000000/html-5.png)  
-![CSS](https://img.icons8.com/color/48/000000/css3.png)  
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  
-![React](https://img.icons8.com/color/48/000000/react-native.png)  
-![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)  
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nextjs.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png" />
 
 ### ⚙️ **Backend & Databases**  
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)  
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)  
-![Hapi.js](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-hapi-js-a-rich-framework-for-building-applications-and-services-logo-shadow-tal-revivo.png)  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 
 ### 🔗 **APIs & Tools**  
-![REST APIs](https://img.icons8.com/external-solidglyph-m-oki-orlando/48/external-api-data-analytics-solidglyph-m-oki-orlando.png)  
+<img height="50" width="50" src="https://img.icons8.com/external-solidglyph-m-oki-orlando/48/external-api-data-analytics-solidglyph-m-oki-orlando.png" />
 
 ### 🐍 **Other Languages**  
-![Python](https://img.icons8.com/color/48/000000/python.png)  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  
 
 ---
 
 ## 🛠️ **Development Tools & IDEs**  
-![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  
-![Git](https://img.icons8.com/color/48/000000/git.png)  
-![GitHub](https://img.icons8.com/color/48/000000/github.png)  
-![Postman](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png)  
-![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)  
-![Netlify](https://img.icons8.com/color/48/000000/netlify.png)  
-![Vercel](https://img.icons8.com/color/48/000000/vercel.png)  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/github.png" />
+<img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/netlify.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/vercel.png" /> 
 
 ---
 
 ## 💻 **Workspace Setup**  
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-ES8E0E?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![Windows 11](https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+<img height="50" width="50" src="https://img.shields.io/badge/OS-Ubuntu-ES8E0E?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img height="50" width="50" src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 ---
 
