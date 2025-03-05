@@ -44,7 +44,7 @@
 ---
 
 ## 🚀 **GitHub Stats & Activity**  
-![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkatesh-Koneti&theme=dark&show_icons=true&hide=issues,contribs&hide_border=true)  
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkatesh-Koneti&theme=dark&show_icons=true&hide=issues,contribs&hide_border=true&cache_seconds=1800) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-Koneti&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
