@@ -6,7 +6,6 @@
 ### 🚀 About Me  
 - 👨‍💻 **Software Developer @ Unifo Private Limited**  
 - 🎯 **Full Stack Developer** | **Problem Solver**  
-- 🌱 Currently exploring **AI & DSA** while building **scalable applications**  
 - 🧩 **Fun Fact:** I love debugging almost as much as I love coding! 😄  
 - 💡 **Favorite Quote:** *"Code is like humor. When you have to explain it, it’s bad." – Cory House*  
 
